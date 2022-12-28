@@ -8,6 +8,7 @@
 
 📫 How to reach me ...
 
-✨ Email : dsharma10@student.gsu.edu
+✨ Email : dsharma10@student.gsu.edu 
+           devanshu116@gmail.com
 
 ✨ 
