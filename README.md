@@ -13,4 +13,5 @@
 
 ✨  Certifications:
     1. Tableau Desktop Specialist https://www.credly.com/badges/a2e3f8d7-2415-4b48-91ab-896ba08b60a2?source=linked_in_profile
+    
     2. Alteryx Foundational Micro-Credential https://www.credly.com/badges/1acd8d42-59a6-498f-980a-467c54a57ba5/linked_in_profile
